@@ -1,0 +1,72 @@
+[
+    {
+        "class": "6th Period IB HL English Year 2",
+        "assignment_name": "Time in \"Cold Heart\"",
+        "grade_numerator": "5",
+        "grade_denominator": "5",
+        "date": "3/18/19"
+    },
+    {
+        "class": "6th Period IB HL English Year 2",
+        "assignment_name": "Poor Visitor Narr.Voice",
+        "grade_numerator": "5",
+        "grade_denominator": "5",
+        "date": "3/7/19"
+    },
+    {
+        "class": "6th Period IB HL English Year 2",
+        "assignment_name": "WT Proposal",
+        "grade_numerator": "-",
+        "grade_denominator": "5",
+        "date": "3/4/19"
+    },
+    {
+        "class": "6th Period IB HL English Year 2",
+        "assignment_name": "Microlab P. 131-142",
+        "grade_numerator": "20",
+        "grade_denominator": "20",
+        "date": "2/26/19"
+    },
+    {
+        "class": "6th Period IB HL English Year 2",
+        "assignment_name": "Theme Exit Ticket",
+        "grade_numerator": "5",
+        "grade_denominator": "5",
+        "date": "2/21/19"
+    },
+    {
+        "class": "6th Period IB HL English Year 2",
+        "assignment_name": "Setting in P.68-82",
+        "grade_numerator": "5",
+        "grade_denominator": "5",
+        "date": "2/19/19"
+    },
+    {
+        "class": "6th Period IB HL English Year 2",
+        "assignment_name": "WaPZ Discussion P. 1-68",
+        "grade_numerator": "5",
+        "grade_denominator": "5",
+        "date": "2/13/19"
+    },
+    {
+        "class": "6th Period IB HL English Year 2",
+        "assignment_name": "Character Para. P.13-26",
+        "grade_numerator": "3.5",
+        "grade_denominator": "5",
+        "date": "2/7/19"
+    },
+    {
+        "class": "6th Period IB HL English Year 2",
+        "assignment_name": "Part 1 Paragraph",
+        "grade_numerator": "5",
+        "grade_denominator": "5",
+        "date": "2/5/19"
+    },
+    {
+        "class": "6th Period IB HL English Year 2",
+        "assignment_name": "Bessie Head Socratic Sem",
+        "grade_numerator": "0",
+        "grade_denominator": "5",
+        "date": "2/1/19"
+    }
+]

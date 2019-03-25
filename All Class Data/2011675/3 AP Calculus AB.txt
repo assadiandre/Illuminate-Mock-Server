@@ -1,0 +1,58 @@
+[
+    {
+        "class": "3 AP Calculus AB",
+        "assignment_name": "Group Quiz on Integrals",
+        "grade_numerator": "35",
+        "grade_denominator": "40",
+        "date": "3/8/19"
+    },
+    {
+        "class": "3 AP Calculus AB",
+        "assignment_name": "Error Analysis (5.1-5.4)",
+        "grade_numerator": "5",
+        "grade_denominator": "(ExtraCredit)",
+        "date": "3/8/19"
+    },
+    {
+        "class": "3 AP Calculus AB",
+        "assignment_name": "Homework Quiz 5.5",
+        "grade_numerator": "15",
+        "grade_denominator": "16",
+        "date": "3/6/19"
+    },
+    {
+        "class": "3 AP Calculus AB",
+        "assignment_name": "5.1-5.4 Test",
+        "grade_numerator": "64",
+        "grade_denominator": "79",
+        "date": "2/26/19"
+    },
+    {
+        "class": "3 AP Calculus AB",
+        "assignment_name": "5.1-5.4 GroupTest",
+        "grade_numerator": "32",
+        "grade_denominator": "32",
+        "date": "2/22/19"
+    },
+    {
+        "class": "3 AP Calculus AB",
+        "assignment_name": "Homework Quiz (5.3-5.4)",
+        "grade_numerator": "15",
+        "grade_denominator": "16",
+        "date": "2/21/19"
+    },
+    {
+        "class": "3 AP Calculus AB",
+        "assignment_name": "Homework Quiz (5.1-5.2)",
+        "grade_numerator": "15",
+        "grade_denominator": "16",
+        "date": "2/12/19"
+    },
+    {
+        "class": "3 AP Calculus AB",
+        "assignment_name": "Homework Quiz 4.9",
+        "grade_numerator": "15",
+        "grade_denominator": "16",
+        "date": "2/1/19"
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "class": "1 IB History Y2",
+        "assignment_name": "TRC Socratic",
+        "grade_numerator": "-",
+        "grade_denominator": "25",
+        "date": "3/20/19"
+    },
+    {
+        "class": "1 IB History Y2",
+        "assignment_name": "Batista Discussion",
+        "grade_numerator": "10",
+        "grade_denominator": "10",
+        "date": "3/18/19"
+    },
+    {
+        "class": "1 IB History Y2",
+        "assignment_name": "S.A. Democracy BP",
+        "grade_numerator": "28",
+        "grade_denominator": "30",
+        "date": "3/14/19"
+    },
+    {
+        "class": "1 IB History Y2",
+        "assignment_name": "S.A. Article EC",
+        "grade_numerator": "-",
+        "grade_denominator": "(ExtraCredit)",
+        "date": "3/12/19"
+    },
+    {
+        "class": "1 IB History Y2",
+        "assignment_name": "Socratic Seminar RESPECT",
+        "grade_numerator": "24",
+        "grade_denominator": "25",
+        "date": "3/11/19"
+    },
+    {
+        "class": "1 IB History Y2",
+        "assignment_name": "RESPECT PROJECT",
+        "grade_numerator": "-",
+        "grade_denominator": "100",
+        "date": "3/11/19"
+    },
+    {
+        "class": "1 IB History Y2",
+        "assignment_name": "Final IA",
+        "grade_numerator": "-",
+        "grade_denominator": "200",
+        "date": "3/11/19"
+    },
+    {
+        "class": "1 IB History Y2",
+        "assignment_name": "Socratic Seminar TRC",
+        "grade_numerator": "-",
+        "grade_denominator": "25",
+        "date": "3/8/19"
+    },
+    {
+        "class": "1 IB History Y2",
+        "assignment_name": "Peer Review",
+        "grade_numerator": "10",
+        "grade_denominator": "10",
+        "date": "2/25/19"
+    },
+    {
+        "class": "1 IB History Y2",
+        "assignment_name": "First Draft",
+        "grade_numerator": "20",
+        "grade_denominator": "20",
+        "date": "2/25/19"
+    },
+    {
+        "class": "1 IB History Y2",
+        "assignment_name": "Road Map to Democracy",
+        "grade_numerator": "38",
+        "grade_denominator": "40",
+        "date": "2/22/19"
+    },
+    {
+        "class": "1 IB History Y2",
+        "assignment_name": "IA Step 4 SourceAnalysis",
+        "grade_numerator": "20",
+        "grade_denominator": "20",
+        "date": "2/22/19"
+    },
+    {
+        "class": "1 IB History Y2",
+        "assignment_name": "IA Step #3 Outline",
+        "grade_numerator": "16",
+        "grade_denominator": "20",
+        "date": "2/11/19"
+    },
+    {
+        "class": "1 IB History Y2",
+        "assignment_name": "IA Step 2: R. Charts",
+        "grade_numerator": "15",
+        "grade_denominator": "20",
+        "date": "2/3/19"
+    },
+    {
+        "class": "1 IB History Y2",
+        "assignment_name": "SA Binder Packet",
+        "grade_numerator": "52.5",
+        "grade_denominator": "60",
+        "date": "1/31/19"
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "class": "5th Physics 1",
+        "assignment_name": "WS-Series Circ (2 sides)",
+        "grade_numerator": "-",
+        "grade_denominator": "10",
+        "date": "3/22/19"
+    },
+    {
+        "class": "5th Physics 1",
+        "assignment_name": "Lab-Current and Voltage",
+        "grade_numerator": "-",
+        "grade_denominator": "10",
+        "date": "3/21/19"
+    },
+    {
+        "class": "5th Physics 1",
+        "assignment_name": "Lab(in class) Resistance",
+        "grade_numerator": "10",
+        "grade_denominator": "10",
+        "date": "3/20/19"
+    },
+    {
+        "class": "5th Physics 1",
+        "assignment_name": "WSs-Elec Force/Stat Elec",
+        "grade_numerator": "10",
+        "grade_denominator": "10",
+        "date": "3/15/19"
+    },
+    {
+        "class": "5th Physics 1",
+        "assignment_name": "Lab-Static Charge",
+        "grade_numerator": "8",
+        "grade_denominator": "10",
+        "date": "3/14/19"
+    },
+    {
+        "class": "5th Physics 1",
+        "assignment_name": "Lab-Speed of Sound",
+        "grade_numerator": "8",
+        "grade_denominator": "10",
+        "date": "3/7/19"
+    },
+    {
+        "class": "5th Physics 1",
+        "assignment_name": "TEST-SHM/Waves",
+        "grade_numerator": "45",
+        "grade_denominator": "66",
+        "date": "3/5/19"
+    },
+    {
+        "class": "5th Physics 1",
+        "assignment_name": "Lab-Making Waves-springs",
+        "grade_numerator": "7",
+        "grade_denominator": "15",
+        "date": "3/4/19"
+    },
+    {
+        "class": "5th Physics 1",
+        "assignment_name": "HW: Ch 12 27, 29, 31",
+        "grade_numerator": "5",
+        "grade_denominator": "10",
+        "date": "3/1/19"
+    },
+    {
+        "class": "5th Physics 1",
+        "assignment_name": "Lab-Spring demo device",
+        "grade_numerator": "10",
+        "grade_denominator": "10",
+        "date": "2/21/19"
+    },
+    {
+        "class": "5th Physics 1",
+        "assignment_name": "HW: Ch 11 p: 29, 31",
+        "grade_numerator": "10",
+        "grade_denominator": "10",
+        "date": "2/21/19"
+    },
+    {
+        "class": "5th Physics 1",
+        "assignment_name": "Lab 3 Rotational Energy",
+        "grade_numerator": "10",
+        "grade_denominator": "10",
+        "date": "2/14/19"
+    },
+    {
+        "class": "5th Physics 1",
+        "assignment_name": "HW Ch 11, 1-15 odd",
+        "grade_numerator": "10",
+        "grade_denominator": "10",
+        "date": "2/14/19"
+    },
+    {
+        "class": "5th Physics 1",
+        "assignment_name": "TEST-Rotation/Statics",
+        "grade_numerator": "39",
+        "grade_denominator": "63",
+        "date": "2/8/19"
+    },
+    {
+        "class": "5th Physics 1",
+        "assignment_name": "Lab-Rot Demo Device",
+        "grade_numerator": "6",
+        "grade_denominator": "10",
+        "date": "2/7/19"
+    },
+    {
+        "class": "5th Physics 1",
+        "assignment_name": "HW:Ch 9P:3,5,7,11,13,15,",
+        "grade_numerator": "10",
+        "grade_denominator": "10",
+        "date": "2/6/19"
+    },
+    {
+        "class": "5th Physics 1",
+        "assignment_name": "HW Ch.8 P57, 59, 61,73",
+        "grade_numerator": "10",
+        "grade_denominator": "10",
+        "date": "2/5/19"
+    },
+    {
+        "class": "5th Physics 1",
+        "assignment_name": "HW Ch.8 P47,49,51",
+        "grade_numerator": "10",
+        "grade_denominator": "10",
+        "date": "2/4/19"
+    },
+    {
+        "class": "5th Physics 1",
+        "assignment_name": "Lab-Rolling Races",
+        "grade_numerator": "9",
+        "grade_denominator": "10",
+        "date": "1/31/19"
+    }
+]

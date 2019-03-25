@@ -1,0 +1,44 @@
+[
+    {
+        "class": "4th Computer Science HL",
+        "assignment_name": "Participation 3/8",
+        "grade_numerator": "13",
+        "grade_denominator": "15",
+        "date": "3/8/19"
+    },
+    {
+        "class": "4th Computer Science HL",
+        "assignment_name": "Topic 2 Quiz",
+        "grade_numerator": "23",
+        "grade_denominator": "24",
+        "date": "3/6/19"
+    },
+    {
+        "class": "4th Computer Science HL",
+        "assignment_name": "Topic 1 Quiz",
+        "grade_numerator": "20",
+        "grade_denominator": "20",
+        "date": "2/25/19"
+    },
+    {
+        "class": "4th Computer Science HL",
+        "assignment_name": "Participation 2/15",
+        "grade_numerator": "14",
+        "grade_denominator": "15",
+        "date": "2/22/19"
+    },
+    {
+        "class": "4th Computer Science HL",
+        "assignment_name": "Java CodingBat - Board",
+        "grade_numerator": "-",
+        "grade_denominator": "15",
+        "date": "2/22/19"
+    },
+    {
+        "class": "4th Computer Science HL",
+        "assignment_name": "Case Study Quiz",
+        "grade_numerator": "16",
+        "grade_denominator": "16",
+        "date": "2/8/19"
+    }
+]

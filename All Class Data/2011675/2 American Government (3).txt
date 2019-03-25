@@ -1,0 +1,118 @@
+[
+    {
+        "class": "2 American Government",
+        "assignment_name": "Unit 3 Annotations",
+        "grade_numerator": "Missing",
+        "date": "3/13/19"
+    },
+    {
+        "class": "2 American Government",
+        "assignment_name": "2.03 Unit 2 Key Concepts",
+        "grade_numerator": "Missing",
+        "date": "3/6/19"
+    },
+    {
+        "class": "2 American Government",
+        "assignment_name": "CE Webquest",
+        "grade_numerator": "3",
+        "grade_denominator": "3",
+        "date": "3/1/19"
+    },
+    {
+        "class": "2 American Government",
+        "assignment_name": "Current Events 2",
+        "grade_numerator": "5",
+        "grade_denominator": "5",
+        "date": "2/25/19"
+    },
+    {
+        "class": "2 American Government",
+        "assignment_name": "Seminar #2",
+        "grade_numerator": "5",
+        "grade_denominator": "5",
+        "date": "2/21/19"
+    },
+    {
+        "class": "2 American Government",
+        "assignment_name": "Ch. 5/ Federalist #10",
+        "grade_numerator": "2.75",
+        "grade_denominator": "3",
+        "date": "2/21/19"
+    },
+    {
+        "class": "2 American Government",
+        "assignment_name": "Unit 1 Quiz",
+        "grade_numerator": "20",
+        "grade_denominator": "20",
+        "date": "2/20/19"
+    },
+    {
+        "class": "2 American Government",
+        "assignment_name": "Socialization Cards",
+        "grade_numerator": "Missing",
+        "date": "2/20/19"
+    },
+    {
+        "class": "2 American Government",
+        "assignment_name": "Dec. of Ind Group Write",
+        "grade_numerator": "3",
+        "grade_denominator": "3",
+        "date": "2/13/19"
+    },
+    {
+        "class": "2 American Government",
+        "assignment_name": "1.04 Dec Ind Analysis",
+        "grade_numerator": "3",
+        "grade_denominator": "3",
+        "date": "2/13/19"
+    },
+    {
+        "class": "2 American Government",
+        "assignment_name": "Current Events 1",
+        "grade_numerator": "5",
+        "grade_denominator": "5",
+        "date": "2/11/19"
+    },
+    {
+        "class": "2 American Government",
+        "assignment_name": "Seminar #1",
+        "grade_numerator": "5",
+        "grade_denominator": "5",
+        "date": "2/7/19"
+    },
+    {
+        "class": "2 American Government",
+        "assignment_name": "Purpose of Gov Outline",
+        "grade_numerator": "4.5",
+        "grade_denominator": "5",
+        "date": "2/5/19"
+    },
+    {
+        "class": "2 American Government",
+        "assignment_name": "Materials",
+        "grade_numerator": "3",
+        "grade_denominator": "3",
+        "date": "2/5/19"
+    },
+    {
+        "class": "2 American Government",
+        "assignment_name": "Seminar 0",
+        "grade_numerator": "5",
+        "grade_denominator": "5",
+        "date": "1/31/19"
+    },
+    {
+        "class": "2 American Government",
+        "assignment_name": "Ideal Infographic",
+        "grade_numerator": "4",
+        "grade_denominator": "4",
+        "date": "1/31/19"
+    },
+    {
+        "class": "2 American Government",
+        "assignment_name": "Syllabus Quiz",
+        "grade_numerator": "3",
+        "grade_denominator": "3",
+        "date": "1/30/19"
+    }
+]
